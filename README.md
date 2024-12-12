@@ -27,9 +27,7 @@ No prior installation is required to use the Weather Dashboard application.
     1. You can click on any of the cities in order to display the weather outlook for that city.
 1. When you return to the application you will see the weather outlook for the last city that you manually searched for.
 
-## Deployed Link
 
-https://kritika22k.github.io/Weather-Dashboard-Application/
 
 ## Technologies Used
 
@@ -38,6 +36,4 @@ https://kritika22k.github.io/Weather-Dashboard-Application/
 * https://fontawesome.com/
 * https://openweathermap.org/api
 
-## License
 
-Licensed under [MIT](https://choosealicense.com/licenses/mit/) license.
