@@ -69,5 +69,3 @@ searchButton.addEventListener("click", () => {
 
 // Load history on page load
 renderHistory();
-
-
