@@ -10,9 +10,7 @@ The OpenWeather API was used for retrieving the current day's temperature, humid
 
 Some challenges faced during ths project were ensuring the correct interpretation and implementation of the information received from the OpenWeather API, and ensuring that the API calls worked in tandem with the rest of the application. 
 
-## Application Image(s)
 
-![Screenshot of Weather Dashboard](assets/images/app-screenshot.png)
 
 ## Installation
 
