@@ -29,7 +29,7 @@ No prior installation is required to use the Weather Dashboard application.
 
 ## Deployed Link
 
-https://martinmondaca.github.io/Weather_Dashboard/
+https://kritika22k.github.io/Weather-Dashboard-Application/
 
 ## Technologies Used
 
